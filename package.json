@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Israel Perez",
 	"description": "A project that does something awesome yup",
+	"keywords": [ "descriptive", "related", "words" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
