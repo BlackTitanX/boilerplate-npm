@@ -3,6 +3,7 @@
 	"author": "Israel Perez",
 	"description": "A project that does something awesome yup",
 	"keywords": [ "descriptive", "related", "freecodecamp" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
